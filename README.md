@@ -1,4 +1,4 @@
-# NTUser-UsrClass-Extractor
+# NTUSER-UsrClass-Extractor
 PowerShell script to pull NTUSER &amp; UsrClass
 
 Pulls NTUser & UsrClass for every user and puts them in the root of a folder named as their username.
